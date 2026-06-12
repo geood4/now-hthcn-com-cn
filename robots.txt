@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://geood4.github.io/now-hthcn-com-cn/sitemap.xml
